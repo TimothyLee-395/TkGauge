@@ -1,1 +1,1 @@
-# TkGauge
+I wrote this Python code as a tutorial for an analog gauge. The slider represents an analog voltage between 0 and 5 volts. The gauge represents an RPM between 0 and 10000. Study this simple code, and use in your own projects..
