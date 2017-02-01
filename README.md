@@ -1,1 +1,2 @@
 I wrote this Python code as a tutorial for an analog gauge. The slider represents an analog voltage between 0 and 5 volts. The gauge represents an RPM between 0 and 10000. Study this simple code, and use in your own projects..
+2-1-17 Added a progress bar style analog gauge (PB). The slider represents an analog voltage between 0 and 1.50 volts. This is the typical output of a lm34, a common temperature sensor, for a temperature from 0 to 150 degrees Fahreheit, 10mV = 1 degree. Study this code to adapt to your projects..
